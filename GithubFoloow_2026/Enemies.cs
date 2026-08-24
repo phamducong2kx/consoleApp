@@ -13,5 +13,9 @@ namespace GithubFoloow_2026
         {
             hp = _hp;
         }
+        public void Helo()
+        {
+            Console.WriteLine("Xin chào C#!");
+        }
     }
 }
