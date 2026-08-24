@@ -2,6 +2,6 @@
 {
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello, từ nahsnh main");
+        Console.WriteLine("Hello, từ nhánh main");
     }
 }
